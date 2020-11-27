@@ -1,0 +1,29 @@
+# Directed graph (each unordered pair of nodes is saved once)
+# Random Graph
+# Nodes: 11 Edges: 26
+# FromNodeId	ToNodeId
+0	1
+0	2
+0	3
+1	0
+1	2
+2	0
+2	1
+2	4
+2	7
+3	0
+3	7
+3	10
+7	2
+7	3
+7	10
+7	8
+4	2
+5	1
+6	9
+8	7
+0	9
+9	0
+9	6
+10	7
+10      3
